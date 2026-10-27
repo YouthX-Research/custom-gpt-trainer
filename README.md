@@ -1,6 +1,8 @@
 # Custom GPT Trainer
 
-Bu proje, Andrej Karpathy'nin [nanoGPT](https://github.com/karpathy/nanoGPT) kütüphanesini kullanarak kendi metin veri setlerinizle özel bir GPT modeli eğitmenizi sağlar.
+*Train a small GPT on your own text in Google Colab, using nanoGPT.*
+
+Andrej Karpathy'nin [nanoGPT](https://github.com/karpathy/nanoGPT) kodunu kullanarak kendi metin veri setlerinizle özel bir GPT modeli eğitmenizi sağlar.
 
 ## 🚀 Özellikler
 - **Hızlı Kurulum:** Google Colab üzerinde tek tıklamayla eğitim ortamı hazırlama.
@@ -41,5 +43,8 @@ Eğitim sürecini notebook içindeki `cfg` bloğundan özelleştirebilirsiniz:
 - **E-posta:** [vastseaoffical0@outlook.com](mailto:vastseaoffical0@outlook.com)
 - **GitHub:** [@VastSea0](https://github.com/VastSea0)
 
----
-*Bu proje YouthX Research bünyesinde oluşturulmuştur.*
+## Lisans
+
+Bu repodaki notebook [GPL-3.0](LICENSE) ile lisanslıdır. Notebook'un indirdiği nanoGPT kodu kendi MIT lisansına tabidir.
+
+[YouthX Research](https://github.com/YouthX-Research) projesidir.
